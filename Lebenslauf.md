@@ -21,9 +21,11 @@ geb.         : 24. August 1979 in Wels<br>
 
 ### Kenntnisse und Fähigkeiten
 <h4>PC-Kenntnisse</h4>
+
 * CNC- Basics
 * Windows, MS Office
 * C/C++, Java
 
 <h4>Führerschein</h4>
+
 * Klasse A, B
